@@ -1,0 +1,4 @@
+nltk==3.5
+streamlit==0.73.1
+joblib==0.16.0
+corpus==0.4.2

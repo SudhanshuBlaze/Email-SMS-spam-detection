@@ -2,7 +2,7 @@ import nltk
 import joblib
 from nltk.corpus import stopwords
 import streamlit as st
-predictions = joblib.load('predictions_joblib')
+
 cv = joblib.load('cv_joblib')
 clf = joblib.load('clf_joblib')
 
